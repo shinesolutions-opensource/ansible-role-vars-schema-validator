@@ -7,8 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 1.0.0 - 2021-03-18
 ### Added
+- Add Ansible 3.x support
 - Add Cerberus installation to install guide
+
+### Changed
+- Switch build to use Python3
 
 ### Fixed
 - Fix missing `shinesolutions_opensource.` prefix to role name documentation
